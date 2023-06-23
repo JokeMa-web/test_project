@@ -1,5 +1,3 @@
 版本回退
 
 git revert 测试(与 git reset 的不同之处)
-
-- 第一次作出修改
